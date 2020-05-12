@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75b138ad-03c4-496b-a731-d255fef79642" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bT0ELo7Yk23UH1HwqClxArEH8D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/update.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\UpdateSystem\Client" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Update" type="PythonConfigurationType" factoryName="Python">
+      <module name="Client" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\PycharmProjects\UpdateSystem\Client\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/update.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75b138ad-03c4-496b-a731-d255fef79642" name="Default Changelist" comment="" />
+      <created>1588640663605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588640663605</updated>
+      <workItem from="1588640684771" duration="141000" />
+      <workItem from="1588641566219" duration="2846000" />
+      <workItem from="1588655535996" duration="509000" />
+      <workItem from="1588669151858" duration="2249000" />
+      <workItem from="1588672878522" duration="12230000" />
+      <workItem from="1589265405538" duration="796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="13" key="#Client" timestamp="1588672844098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="398" y="13" key="#Client/0.0.1366.728@0.0.1366.728" timestamp="1588672844098" />
+    <state x="398" y="13" key="#Update" timestamp="1588672864590">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="398" y="13" key="#Update/0.0.1366.728@0.0.1366.728" timestamp="1588672864590" />
+    <state x="98" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588680669831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="98" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588680669831" />
+    <state x="426" y="126" key="FileChooserDialogImpl" timestamp="1588680636061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="426" y="126" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588680636061" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1588687161570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588687161570" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1588687161570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588687161570" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1588687161570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588687161570" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1588687161570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588687161570" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1588687164528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588687164528" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1588687164528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588687164528" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1588687164528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588687164528" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1588687164528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588687164528" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1588672371588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588672371588" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/update.py</url>
+          <line>207</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/update.py</url>
+          <line>183</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Client$Client.coverage" NAME="Client Coverage Results" MODIFIED="1588672431336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Client$Update.coverage" NAME="Update Coverage Results" MODIFIED="1588687161426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

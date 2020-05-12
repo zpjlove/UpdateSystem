@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e47120ac-c8b8-4627-a77c-6cee57687c32" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bT0LeCtitEbcJz1IncAPOZZVWF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ClientFolder/ClientVersion/exe.win-amd64-3.6" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\UpdateSystem\Server\ClientFolder\ClientVersion\exe.win-amd64-3.6" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Server" type="PythonConfigurationType" factoryName="Python">
+      <module name="Server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\PycharmProjects\UpdateSystem\Server\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e47120ac-c8b8-4627-a77c-6cee57687c32" name="Default Changelist" comment="" />
+      <created>1588640721988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588640721988</updated>
+      <workItem from="1588640744602" duration="313000" />
+      <workItem from="1588641291889" duration="2261000" />
+      <workItem from="1588655615882" duration="14093000" />
+      <workItem from="1589265405635" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="199" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588641576039">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="199" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588641576039" />
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588641515860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588641515860" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1588641563073">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588641563073" />
+    <state width="1286" height="204" key="GridCell.Tab.0.bottom" timestamp="1588688105491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588688105491" />
+    <state width="1286" height="204" key="GridCell.Tab.0.center" timestamp="1588688105491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588688105491" />
+    <state width="1286" height="204" key="GridCell.Tab.0.left" timestamp="1588688105491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588688105491" />
+    <state width="1286" height="204" key="GridCell.Tab.0.right" timestamp="1588688105491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588688105491" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1588655879682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588655879682" />
+    <state x="300" y="274" width="981" height="475" key="dock-window-1" timestamp="1588641576526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="300" y="274" width="981" height="475" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1588641576526" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Server$Server.coverage" NAME="Server Coverage Results" MODIFIED="1588688105289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Server$server.coverage" NAME="client Coverage Results" MODIFIED="1588641476082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Client" />
+  </component>
+</project>
