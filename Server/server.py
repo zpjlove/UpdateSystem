@@ -226,7 +226,7 @@ def CreateNewXmlFromFiles(client_dir):
         for (dirpath, dirnames, filenames) in os.walk(module_dir):
             for file in filenames:
                 file_dir = os.path.join(dirpath, file)
-                file_path = file_dir.replace(client_dir, "").strip("\\").replace("\\", "/")
+                file_path = file_dir.replace(client_dir+'\\', "").strip("\\").replace("\\", "/")
                 file_size = os.path.getsize(file_dir)
                 last_update_time = TimeStampFormat(os.path.getmtime(file_dir))
                 version = 1
@@ -268,4 +268,6 @@ if __name__ == "__main__":
         AutoCheckVersion(update_xml_path, temp_xml_path)
         py_path = os.path.join(sys.path[0], 'venv', 'Scripts', 'python.exe')
         cmdline = '%s -m http.server -b %s %s' % (py_path, UPDATE_HOST, UPDATE_PORT)
+        # cmdline = 'pyhton -m SimpleHTTPSever -b %s %s'(UPDATE_HOST,UPDATE_PORT)
+        print(cmdline)
         os.system(cmdline)

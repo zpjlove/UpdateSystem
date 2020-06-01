@@ -168,7 +168,8 @@ def AutoUpdate(server_ip, server_port, module_name, order):
     time_start = time.perf_counter()
     try:
         download_url = "http://{0}:{1}/{2}".format(server_ip, server_port, "VersionInfo.xml")
-        local_path = os.path.join(sys.path[0], "VersionInfoTemp.xml")
+        # local_path = os.path.join(sys.path[0], "VersionInfoTemp.xml")
+        local_path =  "./VersionInfoTemp.xml"
         print("download_url: " + download_url)
         if not download_file_by_http(download_url, local_path):
             raise Exception()
@@ -193,8 +194,10 @@ def AutoUpdate(server_ip, server_port, module_name, order):
     prompt_info13.set("总体进度：99.9%")
     prompt_info21.set("")
     root.update()
-    source_dir = os.path.join(sys.path[0], "TempFolder")
-    dest_dir = os.path.dirname(sys.path[0])
+    # source_dir = os.path.join(sys.path[0], "TempFolder")
+    # dest_dir = os.path.dirname(sys.path[0])
+    source_dir = "./TempFolder"
+    dest_dir = "./"
     # dest_dir = os.path.join(sys.path[0], "test_main")
     override_dir(source_dir, dest_dir)
     # 删除要删除的文件
@@ -274,7 +277,9 @@ def download_progress(file_info_dict):
         for each_file in file_info_dict.keys():
             file_count += 1
             download_url = "http://{0}:{1}/ClientFolder/{2}".format(server_ip, server_port, each_file)
-            local_path = os.path.join(sys.path[0], "TempFolder", each_file.replace("/", "\\"))
+            # 由于云平台端口映射的问题，需要用域名方式访问
+            # download_url = "http://{0}/ClientFolder/{1}".format(server_ip, each_file)
+            local_path = os.path.join("./TempFolder", each_file.replace("/", "\\"))
             file_path = os.sep.join(local_path.split("\\")[:-1])
             file_name = each_file
             if len(file_name) > 26:
@@ -483,8 +488,10 @@ if __name__ == '__main__':
     # endregion
 
     # 启动窗口
-    local_xml_path = os.path.join(sys.path[0], "VersionInfo.xml")
-    update_xml_path = os.path.join(sys.path[0], "VersionInfoTemp.xml")
+    # local_xml_path = os.path.join(sys.path[0], "VersionInfo.xml")
+    local_xml_path = "./VersionInfo.xml"
+    # update_xml_path = os.path.join(sys.path[0], "VersionInfoTemp.xml")
+    update_xml_path = "./VersionInfoTemp.xml"
     local_xml = VersionInfoXml(local_xml_path)
     server_ip = local_xml.get_node_value("ServerInfo/ServerIp")
     server_port = local_xml.get_node_value("ServerInfo/ServerPort")
